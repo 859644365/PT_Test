@@ -402,7 +402,7 @@ OpenID规范概述了一种标准化的方式，允许客户端应用程序向Op
 
 ## OAuth_Bug
 
-![Untitled](渗透测试笔记/attachments/Untitled.png)
+![Untitled](static/images/Untitled.png)
 
 <aside>
 💡 备注
