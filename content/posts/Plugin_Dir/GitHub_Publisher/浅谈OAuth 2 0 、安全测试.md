@@ -3,6 +3,7 @@ share: "true"
 ---
 
 
+
 # **OAuth 2.0 授权框架**
 
 ## **什么是 OAuth？**
@@ -401,7 +402,7 @@ OpenID规范概述了一种标准化的方式，允许客户端应用程序向Op
 
 ## OAuth_Bug
 
-![Untitled](../../static/Untitled.png)
+![Untitled](渗透测试笔记/attachments/Untitled.png)
 
 <aside>
 💡 备注
@@ -472,7 +473,7 @@ access_token或refresh_token是否存在泄漏？
 
 ## OAuth2.0 CheckList
 
-![Untitled](../../static/Untitled%201.png)
+![Untitled](渗透测试笔记/attachments/Untitled%201.png)
 
 ## OAuth2.0 PT CheatSheet
 
